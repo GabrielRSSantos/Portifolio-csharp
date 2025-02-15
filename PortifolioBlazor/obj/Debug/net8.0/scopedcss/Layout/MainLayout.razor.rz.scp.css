@@ -1,0 +1,26 @@
+.page[b-kucwm2crmf] {
+    display: flex;
+}
+
+.sidebar[b-kucwm2crmf] {
+    position: fixed;
+    width: 100vw;
+    height: 20vh;
+    background-color: red;
+    border: 2px solid black;
+}
+
+
+/*@media (max-width: 640.98px) {
+}
+
+@media (min-width: 641px) {
+
+    .sidebar {
+        position:fixed;
+        width: 100vw;
+        height: 20vh;
+        position: sticky;
+        top: 0;
+    }
+}*/

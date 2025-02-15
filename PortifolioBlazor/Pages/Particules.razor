@@ -1,0 +1,37 @@
+﻿@page "/particules"
+@inject HttpClient Http
+
+<PageTitle>Weather</PageTitle>
+
+<div class="home-perfil">
+
+    <div class=" bg-animation">
+        <div id='stars'></div>
+        <div id='stars2'></div>
+        <div id='stars3'></div>
+        <div id='stars4'></div>
+    </div>
+
+    <h1 class="name-gabriel">Gabriel Ribeiro Da Silva Santos</h1>
+
+</div>
+
+@code {
+    private WeatherForecast[]? forecasts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+    }
+
+    public class WeatherForecast
+    {
+        public DateOnly Date { get; set; }
+
+        public int TemperatureC { get; set; }
+
+        public string? Summary { get; set; }
+
+        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+    }
+}
