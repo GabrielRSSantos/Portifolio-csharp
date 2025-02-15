@@ -1030,3 +1030,4 @@ C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\PortifolioBlazor\PortifolioBlazor\o
 C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\PortifolioBlazor\PortifolioBlazor\obj\Debug\net8.0\PortifolioBlazor.pdb
 C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\PortifolioBlazor\PortifolioBlazor\obj\Debug\net8.0\ref\PortifolioBlazor.dll
 C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\PortifolioBlazor\PortifolioBlazor\obj\Debug\net8.0\scopedcss\Pages\Particules.razor.rz.scp.css
+C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\PortifolioBlazor\PortifolioBlazor\obj\Debug\net8.0\PortifolioBlazor.sourcelink.json
