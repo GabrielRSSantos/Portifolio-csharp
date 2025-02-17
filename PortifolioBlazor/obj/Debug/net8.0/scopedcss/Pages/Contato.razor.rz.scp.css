@@ -1,0 +1,34 @@
+.form-page[b-kq9ex37qjg] {
+    height: 100vh;
+    width:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Alinha os itens verticalmente no centro */
+    align-items: center; /* Alinha os itens horizontalmente no centro */
+}
+
+[b-kq9ex37qjg] .main-form {
+    width: 70%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+.form-control[b-kq9ex37qjg]{
+    background-color:green;
+}
+
+label[b-kq9ex37qjg]{
+    color:white;
+    display:flex;
+    flex-direction:column;
+}
+
+h1[b-kq9ex37qjg]{
+    color:white;
+}
+
+body[b-kq9ex37qjg] {
+}

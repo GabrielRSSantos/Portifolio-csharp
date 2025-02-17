@@ -1,0 +1,60 @@
+﻿@page "/"
+
+<PageTitle>Contato</PageTitle>
+
+<div class="form-page">
+
+    <h1>Entre em contato!!</h1>
+
+    <EditForm Model="@Model"
+              class="main-form"
+              OnValidSubmit="OnValidSubmit"
+              OnInvalidSubmit="OnInvalidaSubmit">
+
+        <label>
+            Nome
+            <InputText class="form-control mb-3" type="text" @bind-Value="Model.name"></InputText>
+        </label>
+
+        <label>
+            Email
+            <InputText class="form-control mb-3" type="text-field" @bind-Value="Model.email"></InputText>
+        </label>
+
+        <label>
+            Menssagem
+            <InputTextArea class="form-control mb-3" type="text" @bind-Value="Model.message"></InputTextArea>
+        </label>
+
+        <button class="btn btn-primary w-25 align-self-center" type="submit">Enviar</button>
+
+    </EditForm>
+
+</div>
+
+@code {
+    public Person Model { get; set; } = new();
+
+    public class Person
+    {
+        [Required(ErrorMessage = "Insira um nome")]
+        public string name { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Insira uma menssagem")]
+        public string message { get; set; } = string.Empty;
+
+        [EmailAddress(ErrorMessage = "E-mail Inválido")]
+        public string email { get; set; } = string.Empty;
+
+    }
+
+    public void OnValidSubmit()
+    {
+
+    }
+
+    public void OnInvalidaSubmit()
+    {
+
+    }
+}

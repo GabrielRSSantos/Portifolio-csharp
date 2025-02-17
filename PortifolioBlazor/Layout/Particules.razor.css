@@ -1,13 +1,8 @@
-﻿.name-gabriel{
-    align-self:center
-}
-
-.home-perfil {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color:white;
+﻿.home-perfil {
+    position:absolute;
     height:100vh;
+    width:100vh;
+    z-index:-1;
 }
 
 .bg-animation {

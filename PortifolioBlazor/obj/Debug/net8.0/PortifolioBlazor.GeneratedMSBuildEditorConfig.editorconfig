@@ -26,16 +26,12 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/PortifolioBlazor/PortifolioBlazor/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/PortifolioBlazor/PortifolioBlazor/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/PortifolioBlazor/PortifolioBlazor/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/PortifolioBlazor/PortifolioBlazor/Pages/Skills.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2tpbGxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/PortifolioBlazor/PortifolioBlazor/_Imports.razor]
@@ -50,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope = b-kucwm2crmf
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-2cyj8zn0ep
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/PortifolioBlazor/PortifolioBlazor/Pages/Particules.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGljdWxlcy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-hfszlma7mw
+[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/PortifolioBlazor/PortifolioBlazor/Layout/Particules.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFBhcnRpY3VsZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jlmqd91oov
+
+[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/PortifolioBlazor/PortifolioBlazor/Pages/Contato.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGF0by5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-kq9ex37qjg
