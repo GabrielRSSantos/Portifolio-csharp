@@ -1,14 +1,24 @@
 ﻿@page "/skills"
 
-<PageTitle>Counter</PageTitle>
-
-<h1>Skills</h1>
+@for(int i = 0; i <= skills.Count; i++)
+{
+    <div>
+        <p>@skills[i].name - Level: @skills[i].level</p>
+    </div>
+}
 
 @code {
-    private int currentCount = 0;
 
-    private void IncrementCount()
+    public class Skill
     {
-        currentCount++;
+        public string name { get; set; } = string.Empty;
+        public int level { get; set; } = 0;
     }
+
+    public List<Skill> skills = new List<Skill> {
+    new Skill { name = "C#", level = 4 },
+    new Skill { name = "JavaScript", level = 4 },
+    new Skill { name = "Python", level = 2 }
+};
+
 }
