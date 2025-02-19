@@ -2,7 +2,7 @@ name: Deploy
 
 on:
   push:
-    branchs: ["main"]
+    branches: ["main"]
 
   workflow_dispatch:
 
@@ -30,7 +30,6 @@ jobs:
         with:
           dotnet-version: 8.0.x
 
-
       - name: Install .NET Wasm Tools
         run: dotnet workload install wasm-tools
 
@@ -40,8 +39,11 @@ jobs:
       - name: Build
         run: dotnet build -c Release --no-restore
 
+      - name: Verificar arquivos no diretório atual
+        run: ls -R
+
       - name: Publish .NET
-        run: dotnet publish PortifolioBlazor.csproj -c:Release -o docs --nologo
+        run: dotnet publish src/PortifolioBlazor.csproj -c:Release -o docs --nologo
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
