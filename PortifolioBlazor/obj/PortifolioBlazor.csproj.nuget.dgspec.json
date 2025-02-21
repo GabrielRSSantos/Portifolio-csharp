@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\PortifolioBlazor\\PortifolioBlazor\\PortifolioBlazor.csproj": {}
+    "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\PortifolioBlazor\\PortifolioBlazor\\PortifolioBlazor.csproj": {
+    "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\PortifolioBlazor\\PortifolioBlazor\\PortifolioBlazor.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj",
         "projectName": "PortifolioBlazor",
-        "projectPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\PortifolioBlazor\\PortifolioBlazor\\PortifolioBlazor.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\PortifolioBlazor\\PortifolioBlazor\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

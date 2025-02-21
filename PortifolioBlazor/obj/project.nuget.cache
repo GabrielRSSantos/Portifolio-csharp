@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aJqP+Sn7yf6n24Tx6goZEnJCpuq2E2U9vWSO8VB/5BYeL/1BwMoRPPrcZvT8ZO9pvuGXMPZYEbEzEF66jnGBTQ==",
+  "dgSpecHash": "5zmYB8RHWkq4ZW3q6UJaUVxb/pZ9RZn6LCXEQdFjpzvwU5saJoILDfYtW0XB0Bp+T9iJRN57QKNUx3PqyZ+e0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\PortifolioBlazor\\PortifolioBlazor\\PortifolioBlazor.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.4\\microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.4\\microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
