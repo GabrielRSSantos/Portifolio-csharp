@@ -43,7 +43,7 @@ jobs:
         run: ls -R
 
       - name: Publish .NET
-        run: dotnet publish PortifolioBlazor/PortifolioBlazor.csproj -c:Release -o docs --nologo
+        run: dotnet publish PortifolioBlazor/PortifolioBlazor.csproj -c:Release -o . --nologo
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
