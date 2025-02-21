@@ -2066,3 +2066,4 @@ C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-csharp\PortifolioBlazor\
 C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-csharp\PortifolioBlazor\obj\Debug\net8.0\refint\PortifolioBlazor.dll
 C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-csharp\PortifolioBlazor\obj\Debug\net8.0\PortifolioBlazor.pdb
 C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-csharp\PortifolioBlazor\obj\Debug\net8.0\ref\PortifolioBlazor.dll
+C:\Users\Gabriel\Desktop\Gabriel Projetos\C#\Portifolio-csharp\PortifolioBlazor\obj\Debug\net8.0\scopedcss\Pages\Skills.razor.rz.scp.css

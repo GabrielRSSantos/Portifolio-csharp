@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\users\\gabriel\\desktop\\gabriel projetos\\c#\\portifolio-csharp\\portifolioblazor\\pages\\contato.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\pages\\contato.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\users\\gabriel\\desktop\\gabriel projetos\\c#\\portifolio-csharp\\portifolioblazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\users\\gabriel\\desktop\\gabriel projetos\\c#\\portifolio-csharp\\portifolioblazor\\pages\\skills.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\pages\\skills.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\users\\gabriel\\desktop\\gabriel projetos\\c#\\portifolio-csharp\\portifolioblazor\\pages\\skills.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\pages\\skills.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\users\\gabriel\\desktop\\gabriel projetos\\c#\\portifolio-csharp\\portifolioblazor\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\users\\gabriel\\desktop\\gabriel projetos\\c#\\portifolio-csharp\\portifolioblazor\\pages\\skillslevel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\pages\\skillslevel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\users\\gabriel\\desktop\\gabriel projetos\\c#\\portifolio-csharp\\portifolioblazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\users\\gabriel\\desktop\\gabriel projetos\\c#\\portifolio-csharp\\portifolioblazor\\pages\\contato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\pages\\contato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\users\\gabriel\\desktop\\gabriel projetos\\c#\\portifolio-csharp\\portifolioblazor\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,8 +29,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 76,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 91,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,76 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Contato.razor.css",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Contato.razor.css",
-              "RelativeDocumentMoniker": "PortifolioBlazor\\Pages\\Contato.razor.css",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Contato.razor.css",
-              "RelativeToolTip": "PortifolioBlazor\\Pages\\Contato.razor.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-16T12:21:43.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Layout\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "PortifolioBlazor\\Layout\\MainLayout.razor.css",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Layout\\MainLayout.razor.css",
-              "RelativeToolTip": "PortifolioBlazor\\Layout\\MainLayout.razor.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-16T12:36:25.971Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 90,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "PortifolioBlazor\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\index.html",
-              "RelativeToolTip": "PortifolioBlazor\\wwwroot\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-21T09:13:01.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "PortifolioBlazor\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "PortifolioBlazor\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T09:10:31.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Skills.razor",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Skills.razor",
               "RelativeDocumentMoniker": "PortifolioBlazor\\Pages\\Skills.razor",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Skills.razor",
               "RelativeToolTip": "PortifolioBlazor\\Pages\\Skills.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T09:10:15.027Z",
+              "WhenOpened": "2025-02-21T10:23:07.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkillsLevel.razor",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\SkillsLevel.razor",
+              "RelativeDocumentMoniker": "PortifolioBlazor\\Pages\\SkillsLevel.razor",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\SkillsLevel.razor",
+              "RelativeToolTip": "PortifolioBlazor\\Pages\\SkillsLevel.razor",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T10:22:13.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Skills.razor.css",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Skills.razor.css",
+              "RelativeDocumentMoniker": "PortifolioBlazor\\Pages\\Skills.razor.css",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Skills.razor.css",
+              "RelativeToolTip": "PortifolioBlazor\\Pages\\Skills.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T10:21:39.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "PortifolioBlazor\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\index.html",
+              "RelativeToolTip": "PortifolioBlazor\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-21T10:20:54.436Z",
               "EditorCaption": ""
             },
             {
@@ -122,10 +96,20 @@
               "RelativeDocumentMoniker": "PortifolioBlazor\\Pages\\Contato.razor",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Contato.razor",
               "RelativeToolTip": "PortifolioBlazor\\Pages\\Contato.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T12:21:43.332Z",
+              "WhenOpened": "2025-02-21T10:15:33.21Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             }
           ]
         }

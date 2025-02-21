@@ -14,6 +14,7 @@
 
 main[b-kucwm2crmf]{
     height:100vh;
+    width:100vh;
     display:flex;
     align-items:center;
     justify-content:center;
@@ -39,35 +40,15 @@ main[b-kucwm2crmf]{
     top: 100px;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-between;
     align-content: center;
     align-items: center;
     background-color: transparent;
 }
 
 .nav-item[b-2cyj8zn0ep]  a {
+    padding:20px;
     color: gray;
-}
-
-.text-link[b-2cyj8zn0ep]{
-    color:green !important;
-}
-
-@media (min-width: 641px) {
-    .navbar-toggler[b-2cyj8zn0ep] {
-        display: none;
-    }
-
-    .collapse[b-2cyj8zn0ep] {
-        /* Never collapse the sidebar for wide screens */
-        display: block;
-    }
-    
-    .nav-scrollable[b-2cyj8zn0ep] {
-        /* Allow sidebar to scroll for tall menus */
-        height: calc(100vh - 3.5rem);
-        overflow-y: auto;
-    }
 }
 /* /Layout/Particules.razor.rz.scp.css */
 .home-perfil[b-jlmqd91oov] {
@@ -222,9 +203,10 @@ main[b-kucwm2crmf]{
 
 [b-kq9ex37qjg] .main-form {
     width: 70%;
+    height:30%;
     display:flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 
@@ -244,4 +226,35 @@ h1[b-kq9ex37qjg]{
 }
 
 body[b-kq9ex37qjg] {
+}
+/* /Pages/Skills.razor.rz.scp.css */
+.container-skill[b-1r1wx2uw1o] {
+    padding-top: 100px;
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-height: 70vh; 
+    overflow-y: auto; 
+    padding-right: 10px;
+}
+
+.skill-tab[b-1r1wx2uw1o]{
+    width:80%;
+    height:10vh;
+    padding:10px;
+    padding-top:20px;
+    border: 2px solid white;
+    border-radius: 5px;
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-between;
+    margin-top:10px;
+}
+
+h1[b-1r1wx2uw1o]{
+    font-size:26px;
+    color:white;
 }

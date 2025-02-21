@@ -9,9 +9,10 @@
 
 [b-kq9ex37qjg] .main-form {
     width: 70%;
+    height:30%;
     display:flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 

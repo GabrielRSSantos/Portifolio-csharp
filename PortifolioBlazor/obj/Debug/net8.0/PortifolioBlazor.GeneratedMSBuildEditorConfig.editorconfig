@@ -30,8 +30,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-csharp/PortifolioBlazor/Pages/Skills.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2tpbGxzLnJhem9y
+[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-csharp/PortifolioBlazor/Pages/SkillsLevel.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2tpbGxzTGV2ZWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-csharp/PortifolioBlazor/_Imports.razor]
@@ -53,3 +53,7 @@ build_metadata.AdditionalFiles.CssScope = b-jlmqd91oov
 [C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-csharp/PortifolioBlazor/Pages/Contato.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGF0by5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-kq9ex37qjg
+
+[C:/Users/Gabriel/Desktop/Gabriel Projetos/C\#/Portifolio-csharp/PortifolioBlazor/Pages/Skills.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2tpbGxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-1r1wx2uw1o

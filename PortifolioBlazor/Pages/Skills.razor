@@ -1,11 +1,16 @@
 ﻿@page "/skills"
 
-@for(int i = 0; i < skills.Count; i++)
-{
-    <div>
-        <p>@skills[i].name - Level: @skills[i].level</p>
-    </div>
-}
+<div class="container-skill">
+
+    @for (int i = 0; i < skills.Count; i++)
+    {
+        <div class="skill-tab">
+            <h1>@skills[i].name</h1>
+
+            <SkillsLevel level="@skills[i].level"/>
+        </div>
+    }
+</div>
 
 @code {
 
@@ -17,7 +22,18 @@
 
     public List<Skill> skills = new List<Skill> {
     new Skill { name = "C#", level = 4 },
+    new Skill { name = "HTML/CSS", level = 4 },
     new Skill { name = "JavaScript", level = 4 },
+    new Skill { name = "GIT", level = 3 },
+    new Skill { name = "JAVA", level = 3 },
+    new Skill { name = "Flutter", level = 3 },
+    new Skill { name = "Flutter", level = 3 },
+    new Skill { name = "Flutter", level = 3 },
+    new Skill { name = "Flutter", level = 3 },
+    new Skill { name = "Flutter", level = 3 },
+    new Skill { name = "Flutter", level = 3 },
+    new Skill { name = "Flutter", level = 3 },
+    new Skill { name = "Flutter", level = 3 },
     new Skill { name = "Python", level = 2 }
 };
 
