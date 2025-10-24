@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Gabriel\\C#\\Portifolio-csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\gabriel\\c#\\portifolio-csharp\\portifolioblazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\gabriel\\c#\\portifolio-csharp\\portifolioblazor\\pages\\skills.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\pages\\skills.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\gabriel\\c#\\portifolio-csharp\\portifolioblazor\\pages\\skills.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\pages\\skills.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\gabriel\\c#\\portifolio-csharp\\portifolioblazor\\pages\\skillslevel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\pages\\skillslevel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|c:\\gabriel\\c#\\portifolio-csharp\\portifolioblazor\\pages\\contato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8934C39F-5AA5-4D43-BA70-AB7A37B6A07A}|PortifolioBlazor\\PortifolioBlazor.csproj|solutionrelative:portifolioblazor\\pages\\contato.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 91,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skills.razor",
+              "DocumentMoniker": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Skills.razor",
+              "RelativeDocumentMoniker": "PortifolioBlazor\\Pages\\Skills.razor",
+              "ToolTip": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Skills.razor",
+              "RelativeToolTip": "PortifolioBlazor\\Pages\\Skills.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T10:23:07.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SkillsLevel.razor",
+              "DocumentMoniker": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\SkillsLevel.razor",
+              "RelativeDocumentMoniker": "PortifolioBlazor\\Pages\\SkillsLevel.razor",
+              "ToolTip": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\SkillsLevel.razor",
+              "RelativeToolTip": "PortifolioBlazor\\Pages\\SkillsLevel.razor",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T10:22:13.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Skills.razor.css",
+              "DocumentMoniker": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Skills.razor.css",
+              "RelativeDocumentMoniker": "PortifolioBlazor\\Pages\\Skills.razor.css",
+              "ToolTip": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Skills.razor.css",
+              "RelativeToolTip": "PortifolioBlazor\\Pages\\Skills.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T10:21:39.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "PortifolioBlazor\\wwwroot\\index.html",
+              "ToolTip": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\index.html*",
+              "RelativeToolTip": "PortifolioBlazor\\wwwroot\\index.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-21T10:20:54.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contato.razor",
+              "DocumentMoniker": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Contato.razor",
+              "RelativeDocumentMoniker": "PortifolioBlazor\\Pages\\Contato.razor",
+              "ToolTip": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\Pages\\Contato.razor",
+              "RelativeToolTip": "PortifolioBlazor\\Pages\\Contato.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T10:15:33.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

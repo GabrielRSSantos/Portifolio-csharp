@@ -1,44 +1,44 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\obj\\Debug\\net8.0\\compressed\\jrhevo20r9.gz",
-      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
-    },
-    {
-      "Id": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PortifolioBlazor.styles.css",
+      "Id": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PortifolioBlazor.styles.css",
       "PackagePath": "staticwebassets\\PortifolioBlazor.styles.css"
     },
     {
-      "Id": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\css\\app.css",
+      "Id": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\favicon.png",
+      "Id": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\icon-192.png",
+      "Id": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\index.html",
+      "Id": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PortifolioBlazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PortifolioBlazor.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj": {}
+    "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj": {
+    "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj",
+        "projectUniqueName": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj",
         "projectName": "PortifolioBlazor",
-        "projectPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj",
-        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel Projetos\\C#\\Portifolio-csharp\\PortifolioBlazor\\obj\\",
+        "projectPath": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\PortifolioBlazor.csproj",
+        "packagesPath": "C:\\Users\\gasantos\\.nuget\\packages\\",
+        "outputPath": "C:\\Gabriel\\C#\\Portifolio-csharp\\PortifolioBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gasantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://repo.rdisoftware.com/artifactory/api/nuget/rdi-nuget-virtual": {}
         },
         "frameworks": {
           "net8.0": {
@@ -44,7 +45,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -62,13 +64,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.4, )",
+              "version": "[8.0.13, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.4, )",
+              "version": "[9.0.2, )",
               "autoReferenced": true
             }
           },
@@ -83,18 +85,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.4, 8.0.4]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
